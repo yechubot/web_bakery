@@ -1,0 +1,3 @@
+function popupclose() {
+    window.close();
+}
